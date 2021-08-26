@@ -1,3 +1,6 @@
+- Live Site URL: [https://danielandrew1.github.io/Landing-Page-1/](https://danielandrew1.github.io/Landing-Page-1/)
+
+
 # Frontend Mentor - Blogr landing page solution
 
 This is a solution to the [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -26,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://danielandrew1.github.io/Landing-Page-1/](https://danielandrew1.github.io/Landing-Page-1/)
 
 ## My process
 
