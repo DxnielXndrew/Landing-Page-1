@@ -1,4 +1,4 @@
-- Live Site URL: [https://danielandrew1.github.io/Landing-Page-1/](https://danielandrew1.github.io/Landing-Page-1/)
+- Live Site URL: [https://dxnielXndrew.github.io/Landing-Page-1/](https://dxnielXndrew.github.io/Landing-Page-1/)
 
 
 # Frontend Mentor - Blogr landing page solution
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://danielandrew1.github.io/Landing-Page-1/](https://danielandrew1.github.io/Landing-Page-1/)
+- Live Site URL: [https://dxnielXndrew.github.io/Landing-Page-1/](https://dxnielXndrew.github.io/Landing-Page-1/)
 
 ## My process
 
@@ -51,7 +51,8 @@ Continuing to learn Bootstrap and JavaScript, as well as my layout skills
 
 ## Author
 
-- Website - [https://www.realdma.tech](https://realdma.tech)
-- Frontend Mentor - [Daniel Andrew](https://www.frontendmentor.io/profile/danielandrew1)
-- Twitter - [Daniel Andrew](https://www.twitter.com/Dxniel_Xndrew)
+- Personal Website - [realdma.tech](https://www.realdma.tech)
+- Frontend Mentor - [Daniel Andrew](https://www.frontendmentor.io/profile/DanielAndrew1)
+- Twitter - [DxnielXndrew](https://www.twitter.com/DxnielXndrew)
+- GitHub - [DxnielXndrew](https://github.com/DxnielXndrew)
 - Instagram - [dxniel_xndrew](https://www.instagram.com/dxniel_xndrew/)
